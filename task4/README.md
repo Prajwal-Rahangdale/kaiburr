@@ -47,7 +47,8 @@ findServerByName(name);	//axios.get
 
 ![WebUiFormGIF](/screenshots/task4WebUiForm.gif)
 
-![WebUIForm](/screenshots/task4WebUIForm.png)
+![WebUIForm](/screenshots/WebUIForm.png)
+
 
 ![CreateWebUIForm](/screenshots/createWebUIForm.PNG)
 
