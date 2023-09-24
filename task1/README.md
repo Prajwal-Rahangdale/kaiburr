@@ -4,19 +4,19 @@
 
 **NOTE:** [README First](/README.md)
 
-### Requirements
-
-- Java
-- Maven
-- Spring Boot (Framework)
-- MongoDB
-- Docker
 
 #### Dependencies
 
 - spring-boot-starter-web
 - spring-boot-starter-data-mongodb
 - spring-boot-maven-plugin
+
+
+- Java
+- Maven
+- Spring Boot (Framework)
+- MongoDB
+- Docker
 
 ## Building steps
 
@@ -106,8 +106,3 @@ Run the following created collection to Test and consume the APIs
 
 ![DelPostManIO](/screenshots/delPostManIO.PNG)
 
-### Using WebUIForms
-
-**NOTE:** *This part is Documented in Task4*
-
-**If run into problem, do not hesitate to comment or connect :smile: !**
